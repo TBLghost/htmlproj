@@ -1,34 +1,5 @@
-body{
-	margin:0px;
-}
-#header{
-background:darkred;
-width:715px;
-height:100px;
-}
-#menu{
-background:oldlace;
-width:190px;
-height:300px;
-}
-#content{
-background:oldlace;
-width:525px;
-height:300px;
-position:absolute;
-left:190px;
-top:100px;
-}
-#footer{
-background:darkred;
-width:715px;
-height:30px;
-}
-#news{
-	background:yellow;
+#block1, #block2, #block3{
+	border:1px solid red;
 	width:150px;
-	height:280px;
-	position:absolute;
-	left:365px;
-	top:10px;
+	height:50px;
 }
