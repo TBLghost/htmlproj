@@ -11,9 +11,9 @@
 	color:#92a9bf;
 	background:blue;
 }
-h5, p{
-	display:inline;
+#p2{
+	display:none;
 }
-h6{
-	display:list-item;
+#p4{
+	visibility:hidden;
 }
